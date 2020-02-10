@@ -11,6 +11,7 @@ public class TC1 {
 		String output=str.replaceAll("[^0-9]", "");
 		
 		System.out.println("After removing char the string is : "+output);
+	    
 
 	}
 
